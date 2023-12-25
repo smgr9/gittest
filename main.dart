@@ -1,3 +1,3 @@
 void main(List<String> args) {
-  print(1 > 10);
+  print(30 > 10);
 }
